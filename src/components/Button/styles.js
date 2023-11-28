@@ -7,4 +7,8 @@ export const ButtonContainer = styled.button`
     padding: 20px;
     flex: 1;
     background-color: #111111;
+
+    &:hover {
+        opacity: 0.9;
+    }
 `
